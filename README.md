@@ -1,4 +1,5 @@
-## SQL Database Project - Workforce-Analytics-Pipeline
+## SQL Database Project - SQL-Employee-Database
+
 A relational database project demonstrating schema design, data modeling, and SQL querying using a simulated employee dataset.
 
 ## Project Overview -
